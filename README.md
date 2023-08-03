@@ -30,5 +30,5 @@ I'm Shweta😉 I'm a A passionate and astute Data Analyst
 
 <img src="https://img.shields.io/badge/Machine_Learning%20-%23777BB4.svg?&style=for-the-badge&logo&logoColor=white">
 <img src="https://img.shields.io/badge/Deeep_Learning%20-%23E00033.svg?&style=for-the-badge&logo=ether&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Natural_Language_Processing%20-%2300599C.svg?&style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV%20-%23323330.svg?&style=for-the-badge&logoColor=%23F7DF1E">
