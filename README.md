@@ -16,9 +16,9 @@ I'm Shweta😉 I'm a A passionate and astute Data Analyst
 ### Current Status Quo:
 
 - 💼 I’m pursuing <strong>B Tech</strong> in <strong> Artificial Intelligence and Data Science</strong>.
-- 🔭 I’m currently working on <strong>Data Anaysis and <strong>Visualization</strong>.
-- 🌱 I’m currently learning <strong>NLP</strong>.
-- 🤔 My research interests are with <strong>Data Science and Automation</strong>
+- 🔭 I’m currently working on <strong>Data Science</strong>.
+- 🌱 I’m currently learning <strong>Machine_Learning and Visualization </strong>.
+- 🤔 My research interests are with <strong>Data Analysis</strong>
 - 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry
 - 💬 Feel free to discuss with me about <strong> resources for Coding and placements</strong>
 
